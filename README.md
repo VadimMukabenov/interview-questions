@@ -1,3 +1,5 @@
+[Как проходить собесы](https://habr.com/ru/companies/alconost/articles/328200/)
+
 ## General
 ### 1
 Hey there! With 7 years under my belt as a fullstack developer and product manager, I've had the chance to work on some pretty cool projects that have even brought in millions in investments.
