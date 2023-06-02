@@ -1,6 +1,139 @@
 [Как проходить собесы](https://habr.com/ru/companies/alconost/articles/328200/)
 
 ## General
+### 1.1
+### Резюме:
+
+Имя: [Ваше имя]
+Контактная информация: [Ваш номер телефона и адрес электронной почты]
+
+Образование:
+
+[Название учебного заведения], [Степень/Специализация], [Год окончания]
+Опыт работы:
+
+[Название компании]
+Период работы: [Год начала работы] - [Год окончания работы]
+Должность: Разработчик JavaScript
+
+Обязанности и достижения:
+
+Разработка бэкенда для агрегатора заказа еды EdaElista.
+Подключение email и SMS-сервисов, а также настройка генерации отчетов по транзакциям.
+Использование технологий: fastify, prisma, PostgreSQL, TypeScript.
+[Название компании]
+Период работы: [Год начала работы] - [Год окончания работы]
+Должность: Разработчик JavaScript
+
+Обязанности и достижения:
+
+Разработка бэкенда для сервиса доставки еды.
+Проектирование базы данных и реализация функционала, связанного с созданием заказов и назначением курьеров.
+Внедрение алгоритма распределения заказов в реальном времени.
+Повышение эффективности и снижение расходов компании.
+Использование технологий: Nest.js, TypeScript, Prisma, PostgreSQL, Redis.
+Навыки:
+
+Языки программирования: JavaScript, TypeScript
+Фреймворки и библиотеки: Fastify, Nest.js
+Базы данных: PostgreSQL, Prisma, Redis
+Коммуникационные протоколы: SMTP, SMS
+Веб-разработка: HTML, CSS
+Версионный контроль: Git
+
+### Сопроводительное письмо:
+
+Уважаемый [Имя нанимателя],
+
+Я с большим интересом узнал о вакансии [название вакансии] в вашей компании и хотел бы поделиться своим опытом и навыками в области разработки JavaScript.
+
+В моем предыдущем опыте работы я занимался разработкой бэкенда для агрегатора заказа еды EdaElista, где я создал функционал для заказа еды с доставкой, подключил email и SMS-сервисы, а также реализовал генерацию отчетов по транзакциям. Я использовал технологии fastify, prisma, PostgreSQL и TypeScript для достижения этих целей.
+
+Также, я был ответственным за разработку сервиса доставки еды, где я разработал бэкенд с нуля, спроектировал базу данных на 10 таблиц и реализовал функционал создания заказа, назначения и открепления курьера, а также алгоритм распределения заказов в реальном времени. В результате этой работы удалось значительно упростить процесс поиска и найма курьеров для ресторанов, снизить расходы и предоставить покупателям полную видимость пути своего заказа. Для этого проекта я использовал технологии Nest.js, TypeScript, Prisma, PostgreSQL и Redis.
+
+Я обладаю глубоким пониманием JavaScript и TypeScript, имею опыт работы с различными фреймворками и библиотеками, а также хорошо разбираюсь в работе с базами данных. Я коммуникабельный и эффективно сотрудничаю в команде, всегда готов изучать новые технологии и применять их на практике.
+
+Я очень заинтересован в возможности присоединиться к вашей команде и внести свой вклад в развитие проектов. Буду рад обсудить подробности и ответить на любые вопросы на собеседовании.
+
+Спасибо за рассмотрение моего резюме. Я с нетерпением жду возможности обсудить мою кандидатуру.
+
+С уважением,
+[Ваше имя]
+
+
+
+### Ответы на вопросы на собеседовании:
+### 1. Расскажите про ваш опыт работы:
+Требования были такие: создать сайт-агрегатор заказа еды EdaElista, который позволял бы пользователям заказывать еду с доставкой на дом.
+
+Я сделал вот это: разработал бэкенд для этого сайта, включая подключение email и SMS-сервисов, а также настройку генерации отчетов по транзакциям. Также я спроектировал базу данных и реализовал функционал, связанный с созданием заказов и назначением курьеров.
+
+Результат такой: благодаря моей работы ресторанам больше не нужно заниматься поиском и наймом курьеров, поскольку они могут арендовать курьеров через созданный мной сервис доставки. Клиенты, в свою очередь, могут видеть весь путь своего заказа от момента приготовления в ресторане до доставки курьером до их двери. Это также привело к снижению расходов, поскольку не требуется наем диспетчеров для контроля за назначением заказов курьерам.
+
+Я использовал такие технологии: для разработки первого проекта я выбрал fastify, prisma, PostgreSQL и TypeScript. А для второго проекта, связанного с доставкой еды, я использовал стек технологий Nest.js, TypeScript, Prisma, PostgreSQL и Redis.
+
+### 2.
+
+
+### Resume:
+
+Name: [Your Name]
+Contact Information: [Your Phone Number and Email Address]
+
+Education:
+
+[Name of Educational Institution], [Degree/Specialization], [Year of Graduation]
+Work Experience:
+
+[Company Name]
+Duration: [Start Year] - [End Year]
+Position: JavaScript Developer
+
+Responsibilities and Achievements:
+
+Developed the backend for the EdaElista food ordering aggregator.
+Integrated email and SMS services and configured transaction report generation.
+Utilized technologies such as Fastify, Prisma, PostgreSQL, and TypeScript.
+[Company Name]
+Duration: [Start Year] - [End Year]
+Position: JavaScript Developer
+
+Responsibilities and Achievements:
+
+Developed the backend from scratch for a food delivery service.
+Designed a 10-table database and implemented functionalities related to order creation, courier assignment, and detachment.
+Implemented real-time order distribution algorithm.
+Resulted in streamlining courier hiring process, providing end-to-end visibility of order status for customers, and reducing expenses.
+Utilized technologies such as Nest.js, TypeScript, Prisma, PostgreSQL, and Redis.
+Skills:
+
+Programming Languages: JavaScript, TypeScript
+Frameworks and Libraries: Fastify, Nest.js
+Databases: PostgreSQL, Prisma, Redis
+Communication Protocols: SMTP, SMS
+Web Development: HTML, CSS
+Version Control: Git
+
+
+### Cover Letter:
+
+Dear [Hiring Manager],
+
+I was thrilled to learn about the [Job Title] position at your company, and I am excited to share my experience and skills in JavaScript development.
+
+In my previous work experience, I have been involved in developing the backend for the EdaElista food ordering aggregator. I successfully implemented functionalities for food ordering with delivery, integrated email and SMS services, and implemented transaction report generation. I utilized technologies such as Fastify, Prisma, PostgreSQL, and TypeScript to achieve these goals.
+
+Additionally, I worked on the development of a food delivery service where I built the backend from scratch. This involved designing a 10-table database, implementing functionalities for order creation, courier assignment, and detachment, as well as implementing a real-time order distribution algorithm. This resulted in streamlining courier hiring process, providing end-to-end visibility of order status for customers, and reducing expenses. For this project, I utilized technologies such as Nest.js, TypeScript, Prisma, PostgreSQL, and Redis.
+
+I possess a strong understanding of JavaScript and TypeScript, with experience working with various frameworks and libraries, and a solid foundation in working with databases. I am a great team player with excellent communication skills, and I am always eager to learn and apply new technologies in practice.
+
+I am highly interested in the opportunity to join your team and contribute to the development of your projects. I would welcome the chance to discuss the details further and answer any questions during an interview.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my candidacy further.
+
+Sincerely,
+[Your Name]
+
 ### 1
 Hey there! With 7 years under my belt as a fullstack developer and product manager, I've had the chance to work on some pretty cool projects that have even brought in millions in investments.
 I've mostly worked with North American startups, so I'm no stranger to remote and fast-paced work environments.
